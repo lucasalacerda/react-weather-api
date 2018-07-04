@@ -5,7 +5,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## About the application:
 
-<p> Application that shows the weather from cities and countries using [OpenWeatherMap api](https://openweathermap.org/api) </p>
+Application that shows the weather from cities and countries using [OpenWeatherMap api](https://openweathermap.org/api)
 
 
 ### Run app
